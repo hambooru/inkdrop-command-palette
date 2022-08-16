@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle wordcount",
+        "command": "wordcount:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "wordcount",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "wordcount:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "command-palette",
+  "main": "./lib/wordcount",
+  "version": "0.0.1",
+  "description": "A command palette for inkdrop",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/wordcount",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
