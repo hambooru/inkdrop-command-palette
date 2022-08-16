@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-alt-o": "wordcount:toggle"
+    "ctrl-shift-,": "commandpalette:toggle"
   }
 }

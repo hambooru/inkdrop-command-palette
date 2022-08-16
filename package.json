@@ -1,6 +1,6 @@
 {
   "name": "command-palette",
-  "main": "./lib/wordcount",
+  "main": "./lib/commandpalette",
   "version": "0.0.1",
   "description": "A command palette for inkdrop",
   "keywords": [],

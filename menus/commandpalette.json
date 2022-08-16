@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Command Palette",
+          "submenu": [
+            {
+              "label": "Show/Hide Command Palette",
+              "command": "commandpalette:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
