@@ -1,9 +1,94 @@
 .commandpalette {
-  padding: 0rem !important ;
-  background-color: red;
+  padding: 5px !important ;
 }
 
-.cpInput {
-  width: 400px;
+.commandpalettewrapper {
+  height: 255px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.cpInput,
+.cpContents {
+  width: 600px;
   background-color: var(--page-background) !important ;
+  margin: 4px 0px;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.cpContents {
+  overflow: hidden scroll;
+  height: 210px;
+}
+
+.option {
+  padding: 4px 13px;
+  width: 600px;
+  height: 25px;
+  color: var(--text-color);
+  margin-top: 5px;
+  cursor: pointer;
+  border: none !important;
+}
+
+.option:hover,
+.option:focus {
+  padding: 4px 13px;
+  width: 600px;
+  height: 25px;
+  background-color: var(--highlight-background);
+  color: var(--selected-text-color);
+  margin-top: 5px;
+  border: none;
+  outline: 0;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  align-items: top;
+  justify-content: center;
+  margin-bottom: auto;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nomargin {
+  margin: 0 !important;
+}
+
+.topresult {
+  color: var(--disabled-text-color);
+  margin-right: 10px;
+}
+
+.nomatch {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nomatchemoji {
+  font-size: 50px;
+  color: var(--disabled-text-color);
+  margin: 15px;
+}
+
+.nomatchtext {
+  color: var(--disabled-text-color);
+  margin: 0;
 }
