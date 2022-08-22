@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-shift-,": "commandpalette:toggle"
+    "ctrl-k": "commandpalette:toggle"
   }
 }
