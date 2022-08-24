@@ -1,7 +1,7 @@
 {
   "name": "command-palette",
   "main": "./lib/commandpalette",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A VSCode-like command palette for inkdrop",
   "keywords": [],
   "repository": "https://github.com/fuwaa/inkdrop-command-palette",
