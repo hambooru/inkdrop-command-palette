@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "A command palette for inkdrop",
   "keywords": [],
-  "repository": "https://github.com/fuwaa/command-palette-inkdrop",
+  "repository": "https://github.com/fuwaa/inkdrop-command-palette",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
