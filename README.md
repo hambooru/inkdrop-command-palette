@@ -1,6 +1,6 @@
 # inkdrop command palette
 
-A VSCode-like command palette for Inkdrop.
+A VSCode-like command palette for Inkdrop. (Invoke using `Ctrl+K`)
 
 > 💡 You may need to reload Inkdrop for this plugin to work. `Ctrl` + `Alt` + `R`
 
