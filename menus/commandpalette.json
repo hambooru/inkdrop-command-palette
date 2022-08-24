@@ -7,7 +7,7 @@
           "label": "Command Palette",
           "submenu": [
             {
-              "label": "Show/Hide Command Palette",
+              "label": "Show Command Palette",
               "command": "commandpalette:toggle"
             }
           ]

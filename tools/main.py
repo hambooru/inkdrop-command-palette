@@ -26,7 +26,7 @@ with open("window.js", "a") as f:
       f.write("category: \"Window\",\n")
       f.write("command: \"window:%s\",\n" % (currenteditor.strip()))
       f.write("selector: \"%s\",\n" % (currentselector.strip()))
-      f.write("state: \"inprogress\",\n")
+      f.write("state: \"untested\",\n")
       f.write("shortcut: [\"\"],\n")
       f.write("},\n")
       # insert values into the string
