@@ -2,6 +2,8 @@
 
 A VSCode-like command palette for Inkdrop. (Invoke using `Ctrl+K`)
 
+https://my.inkdrop.app/plugins/command-palette
+
 > 💡 You may need to reload Inkdrop for this plugin to work. `Ctrl` + `Alt` + `R`
 
 ![Inkdrop_logbdEi1qT](https://user-images.githubusercontent.com/53419401/186372300-eadccb9e-5acb-4771-ac1c-1d46728ce75a.gif)
