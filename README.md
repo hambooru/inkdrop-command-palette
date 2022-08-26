@@ -47,8 +47,9 @@ ipm install command-palette
 
 ## Todo
 
+- [ ] ability to open specific notes, notebooks etc. Will be using plugin instance.
 - [ ] ability to use commands that require an argument, **requires a bit of reverse engineering**
-- [ ] finalize decision on whether i should isolate commands such as `focus on ****` because we'd be already focusing on it or have another command invokable related to it that works targeted by the selector[^3].
+- [ ] finalize decision on whether i should isolate commands such as `focus on ****` because we'd be already focusing on it or have another command invokable related to it that works targeted by the selector[^3]. (still have no idea)
 - [ ] code documentation/prettify to make it less stressful on the eyes.
 - [ ] find a way to make commands that rely on native stuff target the proper selector, as of now i could only rule this as a javascript DOM limitation (still researching on it though!)
 
