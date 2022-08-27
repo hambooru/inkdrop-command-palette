@@ -41,6 +41,9 @@ ipm install command-palette
 
 - Initial release, yay!
 
+## Credits
+- dealroom's [React Arrow Key Navigation Hook](https://github.com/dealroom/react-arrow-key-navigation-hook) (modified to suit plugin needs)
+
 ## Ideas
 
 - [ ] configurable settings? I don't know what to put here though...
