@@ -1,3 +1,5 @@
+###### I have been busy a lot lately hence this repository is marked as inactive and stale, please wait for the proper implementation or fork this repository.
+
 # inkdrop command palette
 
 A VSCode-like command palette for Inkdrop. (Invoke using `Ctrl+K`)
